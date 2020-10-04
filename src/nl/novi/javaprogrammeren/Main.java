@@ -9,6 +9,8 @@ public class Main {
 
         Person p2 = new Person("Frits");
 
+        Person p3 = new Person("Tim");
+
         System.out.println(p.getName());
     }
 }
